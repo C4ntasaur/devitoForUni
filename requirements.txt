@@ -3,5 +3,7 @@ pandas
 matplotlib
 scikit-learn
 devito
+pytest
+jupyter
 notebook
 ipykernel
